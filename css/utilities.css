@@ -5,7 +5,6 @@
 }
 
 .container {
-	max-width: 1100px;
 	margin: 0 auto;
 }
 
@@ -107,6 +106,7 @@
 .bg-lightblue { background-color: lightblue; }
 .bg-goldenrod { background-color: goldenrod; }
 .bg-darkblue { background-color: darkblue; }
+.bg-darkgrey { background-color: darkgrey; }
 .bg-dodgerblue { background-color: dodgerblue; }
 .bg-pink { background-color: pink; }
 .bg-red { background-color: red; }

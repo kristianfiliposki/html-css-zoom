@@ -3,15 +3,31 @@
     margin: 0;
 }
 
+main{
+    height: calc(100vh - 150px);
+    overflow: scroll;
+    justify-content: center;
+
+}
+
 header{
-    height: 100px;
+    height: 50px;
 }
 
 footer{
     height: 100px;
+    background-color:rgb(60,60,60);
 }
 
 div li{
 list-style: none;
 }
 
+button{
+    border-radius: 10px;
+}
+
+
+.foto{
+    margin-left: 20%;
+}
